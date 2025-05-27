@@ -1,4 +1,3 @@
-```markdown
 # Fleet Management Database System
 
 A comprehensive SQL-based project simulating a real-world taxi fleet operation, with deep-dive analysis into trip data, vehicle usage, customer behavior, and driver specialization.
