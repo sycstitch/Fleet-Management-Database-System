@@ -2,7 +2,7 @@
 
 A comprehensive SQL-based project simulating a real-world taxi fleet operation, with deep-dive analysis into trip data, vehicle usage, customer behavior, and driver specialization.
 
----
+
 
 ## 🔍 Project Summary
 
@@ -10,7 +10,7 @@ This project showcases the full lifecycle of a MySQL database-driven analytics s
 
 The queries are grouped into **Beginner**, **Intermediate**, and **Advanced** levels, culminating in a strategic business analysis section that mirrors the kind of insights expected from an in-house data analyst or BI team.
 
----
+
 
 ## 📊 Skills Demonstrated
 
@@ -19,7 +19,7 @@ The queries are grouped into **Beginner**, **Intermediate**, and **Advanced** le
 - **Relational Modeling:** Understanding and usage of normalized schema with proper keys and relationships
 - **Operational Storytelling:** Synthesizes technical outputs into business-focused recommendations
 
----
+
 
 ## 🧠 Key Insights
 
@@ -31,7 +31,7 @@ The queries are grouped into **Beginner**, **Intermediate**, and **Advanced** le
 
 > See [`fleet_queries.md`](./fleet_queries.md) for full analysis and output.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +39,7 @@ The queries are grouped into **Beginner**, **Intermediate**, and **Advanced** le
 - **Language:** SQL
 - **Tools:** CLI, local MySQL instance
 
----
+
 
 ## 🗂️ Repository Structure
 
@@ -48,11 +48,11 @@ The queries are grouped into **Beginner**, **Intermediate**, and **Advanced** le
 ├── fleet\_database.sql       # Database creation script
 ├── fleet\_schema.txt         # Table descriptions
 ├── fleet\_queries.md         # Query logic + business conclusions
-└── README.md                # You're here
+└── README.md                 # You're here
 
 ````
 
----
+
 
 ## 🚧 Future Improvements (Planned)
 
@@ -64,7 +64,7 @@ While this project is already strong in SQL depth and business logic, these are 
 - [ ] Performance improvements via indexing and query profiling
 - [ ] Expanded scenario: fuel cost analysis and dynamic pricing strategies
 
----
+
 
 ## ⚙️ Setup (optional)
 
@@ -77,8 +77,8 @@ SOURCE fleet_database.sql;
 
 This will create all schema and data locally so you can run the queries yourself.
 
----
+
 
 ## 📫 Contact
 
-If you're a hiring manager or peer and want to chat about SQL, analytics, or extending this project, feel free to reach out via GitHub.
+If you're a hiring manager or peer and want to chat about SQL, analytics, or extending this project, feel free to reach out via GitHub or LinkedIn.
