@@ -1,7 +1,3 @@
-Here’s an overhauled version of your `README.md` that’s cleaner, more persuasive, and hiring-manager friendly. It front-loads the value of the project, clearly communicates your current skills, and transparently notes what you plan to improve. This version preserves your technical credibility while making the repo more accessible and compelling.
-
----
-
 ```markdown
 # Fleet Management Database System
 
