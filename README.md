@@ -29,7 +29,7 @@ The queries are grouped into **Beginner**, **Intermediate**, and **Advanced** le
 - Maintenance prioritization based on vehicle utilization data
 - Certification bottlenecks in workforce utilization
 
-> See [`fleet_queries.md`](./fleet_queries.md) for full analysis and output.
+> See [`queries.md`](./SQL/queries.md) for full analysis and output.
 
 
 
