@@ -1,8 +1,6 @@
 # Fleet Management Database - Query Examples
 
-===============================================================================
 TABLE OF CONTENTS
-===============================================================================
 
 BEGINNER QUERIES
 - Basic Vehicle Inventory (SELECT only)
