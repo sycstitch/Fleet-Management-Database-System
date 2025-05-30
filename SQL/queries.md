@@ -1,8 +1,9 @@
 # Fleet Management Database - Query Examples
 
+Click the button below to easily skip to any part of the page.
+<img width="1058" alt="SCR-20250530-nlhj" src="https://github.com/user-attachments/assets/53e68be3-cb01-4f38-9f82-f05df46213f1" />
 
 ### TABLE OF CONTENTS
-
 *BEGINNER QUERIES*
 - Basic Vehicle Inventory (SELECT only)
 - Downtown Trip Filtering (WHERE)
@@ -31,8 +32,7 @@
 -------------------------------------------------------------------------------
 <br />
 
-<details>
-<summary>BEGINNER QUERIES</summary>
+## BEGINNER QUERIES
 
 ### Basic Vehicle Inventory
 - **Goal:** List all vehicles in the fleet
@@ -198,11 +198,8 @@ TRIP_ID | TRIP_DRIVER | TRIP_DESTINATION | TRIP_DISTANCE
 
 -------------------------------------------------------------------------------
 <br />
-</details>
 
-
-<details>
-<summary>INTERMEDIATE QUERIES</summary>
+## INTERMEDIATE QUERIES
 
 ### Trip Details with Driver and Customer Names
 - **Goal:** Complete trip information with related data
@@ -470,11 +467,8 @@ TRIP_ID | TRIP_DRIVER | TRIP_DISTANCE | RunningTotal | DriverAvgDistance
 
 -------------------------------------------------------------------------------
 <br />
-</details>
 
-
-<details>
-<summary>ADVANCED QUERIES</summary>
+## ADVANCED QUERIES
 
 ### Driver Statistics Summary
 - **Goal:** Create comprehensive driver performance report with rankings
@@ -561,10 +555,8 @@ TripMonth | TripsPerMonth | MonthlyDistance | AvgTripDistance | CumulativeTrips
 
 -------------------------------------------------------------------------------
 <br />
-</details>
 
-<details>
-<summary>OVERALL BUSINESS INSIGHTS & CONCLUSIONS</summary>
+## OVERALL BUSINESS INSIGHTS & CONCLUSIONS
 
 ## The Fleet Management Story: Data-Driven Insights
 
