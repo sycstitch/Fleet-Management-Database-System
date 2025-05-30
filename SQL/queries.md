@@ -558,19 +558,17 @@ TripMonth | TripsPerMonth | MonthlyDistance | AvgTripDistance | CumulativeTrips
 
 ## OVERALL BUSINESS INSIGHTS & CONCLUSIONS
 
-## The Fleet Management Story: Data-Driven Insights
-
 After analyzing the fleet management database through multiple SQL query perspectives, several key business insights emerge that tell a comprehensive story about the company's operations:
-
-### Driver Specialization and Workload Distribution
+<br /><br />
+## Driver Specialization and Workload Distribution
 The data reveals a sophisticated operation where **trip count doesn't equal responsibility**. While Rhonda Lewis (Driver 101) handles the most trips (4), John Lange (Driver 104) carries greater responsibility with higher-intensity long-distance routes averaging 1,051 miles per trip versus Lewis's 598 miles. This connects directly to our workforce analysis - with only 45% of employees certified as drivers, the company maximizes efficiency through specialization rather than equal distribution.
 
 **The certification gap explains operational patterns**: ATP-licensed drivers (Lange, Lewis) handle the most demanding routes, while COM-licensed drivers (Williams, Duzak, Travis) support with moderate-distance trips. The 6 non-certified employees represent untapped capacity that could alleviate workload pressure on the current driver pool.
-
-### Customer Intelligence and Revenue Opportunities
+<br /><br />
+## Customer Intelligence and Revenue Opportunities
 Customer behavior analysis reveals **Dunne as a high-value repeat customer** with 2 downtown trips, representing the ideal target for loyalty programs. The $4,323 in outstanding receivables, while concerning, may reflect extended credit terms for frequent users rather than collection issues. **Recommendation**: Implement location-based discounts for customers like Dunne who frequently travel to DTN, and create loyalty tiers based on trip frequency.
-
-### Strategic Workforce Development Need
+<br /><br />
+## Strategic Workforce Development Need
 **Adding driver ratings (1-10 scale) would revolutionize operations** by connecting certification levels to actual performance and customer satisfaction. This would enable:
 - **Smarter driver-customer matching**: Avoid pairing customers with drivers they've rated poorly
 - **Performance-based training**: Identify if certified drivers actually perform better than their credentials suggest
@@ -578,23 +576,23 @@ Customer behavior analysis reveals **Dunne as a high-value repeat customer** wit
 - **Balanced workload distribution**: Train non-certified employees to reduce dependence on the current 5-driver pool
 
 This rating system would provide crucial context missing from our current analysis - certification doesn't guarantee customer satisfaction or driving quality miles. This specialization maximizes both efficiency and driver expertise.
-
-### Strategic Route Management
+<br /><br />
+## Strategic Route Management
 **Downtown (DTN) represents the company's bread-and-butter market** with 4 trips, while **GNV dominates long-distance operations** with the top 4 longest trips all heading to this destination. This geographic concentration suggests established customer relationships and route optimization. The company serves 7 distinct destinations, indicating good market diversification without overextension.
-
-### Financial Health with Collection Challenges
+<br /><br />
+## Financial Health with Collection Challenges
 While 50% of customers maintain zero balances (indicating prompt payment), **$4,323 in outstanding receivables** concentrated among 5 customers presents both opportunity and risk. Paul Olowski's $1,285 balance represents 30% of total receivables, suggesting either a high-value client relationship or potential collection issue requiring management attention.
-
-### Fleet Utilization and Maintenance Priorities
+<br /><br />
+## Fleet Utilization and Maintenance Priorities
 The vehicle analysis reveals **Vehicle 2778V with 7,992 usage hours** significantly exceeds others, flagging it for priority maintenance or replacement consideration. The fleet composition favors PA31-350 models (50% of fleet), indicating standardization benefits for maintenance and training.
-
-### Human Resource Optimization Opportunity
+<br /><br />
+## Human Resource Optimization Opportunity
 With only **45% of employees certified as drivers** (5 of 11), the company has untapped potential for capacity expansion. The presence of 2 ATP-certified drivers provides capability for the most demanding routes, while 3 COM-certified drivers handle standard operations effectively.
-
-### Seasonal Performance Indicator
+<br /><br />
+## Seasonal Performance Indicator
 February 2024's performance of **18 trips covering 13,414 miles** with an average of 745 miles per trip suggests robust operational tempo. This baseline enables future seasonal comparisons and capacity planning.
-
-### Strategic Recommendations
+<br /><br />
+## Strategic Recommendations
 1. **Leverage specialization**: Continue assigning long-distance routes to Lange and high-frequency local routes to Lewis
 2. **Address receivables**: Implement focused collection strategy for the $4,323 outstanding, particularly the top 4 accounts
 3. **Expand driver pool**: Train additional employees for driver certification to increase operational flexibility
