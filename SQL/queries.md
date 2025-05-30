@@ -1,8 +1,8 @@
 # Fleet Management Database - Query Examples
 
-TABLE OF CONTENTS
+**TABLE OF CONTENTS**
 
-BEGINNER QUERIES
+*BEGINNER QUERIES*
 - Basic Vehicle Inventory (SELECT only)
 - Downtown Trip Filtering (WHERE)
 - Customer Account Balances (WHERE, ORDER BY)
@@ -10,7 +10,7 @@ BEGINNER QUERIES
 - Active Drivers (GROUP BY, HAVING, Aliasing)
 - Top 5 Longest Trips (ORDER BY, LIMIT)
 
-INTERMEDIATE QUERIES
+*INTERMEDIATE QUERIES*
 - Trip Details with Driver and Customer Names (INNER JOIN, Aliasing)
 - All Employees and Their Driver Status (LEFT JOIN, CASE Statements)
 - Combined Name List (UNION, String Functions)
@@ -20,7 +20,7 @@ INTERMEDIATE QUERIES
 - Trip Distance Rankings (Window Functions)
 - Driver Performance Analysis (Advanced Window Functions)
 
-ADVANCED QUERIES
+*ADVANCED QUERIES*
 - Driver Statistics Summary (CTEs)
 - Monthly Trip Analysis (CTEs, Date Functions, Window Functions)
 
