@@ -3,7 +3,7 @@
 Click the button below to easily skip to any part of the page.
 <img width="1058" alt="SCR-20250530-nlhj" src="https://github.com/user-attachments/assets/53e68be3-cb01-4f38-9f82-f05df46213f1" />
 
-### TABLE OF CONTENTS
+## TABLE OF CONTENTS
 *BEGINNER QUERIES*
 - Basic Vehicle Inventory (SELECT only)
 - Downtown Trip Filtering (WHERE)
