@@ -48,13 +48,12 @@ This project answers those questions using 18 progressively complex SQL queries,
 
 > *"Customer Dunne appears twice with both trips to downtown, suggesting loyalty program opportunities for location-based discounts."*
 
-## 📁 What's Inside
+## 📁 Repo Structure
 
 ```
 ├── database.sql           # Complete schema + sample data
 ├── queries.md             # 18 queries with business analysis
 ├── schema.md              # Database structure documentation
-├── notes.md               # My process notes (the messy stuff)
 └── README.md              # You're here
 ```
 
