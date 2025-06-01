@@ -3,7 +3,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 *Because someone needs to figure out why Driver 101 keeps taking all the short trips while Driver 104 handles the marathon routes*
 
@@ -53,10 +52,10 @@ This project answers those questions using 18 progressively complex SQL queries,
 
 ```
 ├── database.sql           # Complete schema + sample data
-├── queries.md            # 18 queries with business analysis
-├── schema.md            # Database structure documentation
-├── notes.md             # My process notes (the messy stuff)
-└── README.md            # You're here
+├── queries.md             # 18 queries with business analysis
+├── schema.md              # Database structure documentation
+├── notes.md               # My process notes (the messy stuff)
+└── README.md              # You're here
 ```
 
 ## 🚀 Running It Yourself
