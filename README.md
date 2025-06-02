@@ -1,4 +1,4 @@
-# Fleet SQL Analytics
+# Taxi Fleet SQL Analytics
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
