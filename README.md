@@ -4,15 +4,17 @@
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-*Because someone needs to figure out why Driver 101 keeps taking all the short trips while Driver 104 handles the marathon routes*
+*Because someone needs to figure out why Driver 101 keeps taking all the short trips while Driver 104 handles the marathon routes.*
 
 A comprehensive SQL project that simulates real taxi fleet operations—complete with the messy business questions, competing priorities, and "wait, why is this customer's balance so high?" moments you'd actually encounter as a data analyst.
+<br /><br />
 
 ## What This Actually Is
 
 I built this to demonstrate SQL skills that matter in the real world. Not just "write a JOIN"—but "write a JOIN, then explain why this customer might be getting screwed on pricing, and what we should do about it."
 
 The project covers everything from basic SELECT statements to complex window functions, but more importantly: **every query comes with business context and actionable conclusions**. Because knowing SQL syntax is table stakes—knowing what the results *mean* is what gets you hired.
+<br /><br />
 
 ## 🎯 The Story
 
@@ -24,6 +26,7 @@ You're the new data analyst at a small taxi company. The owner hands you a datab
 - Are our certified drivers actually better than the unlicensed ones?
 
 This project answers those questions using 18 progressively complex SQL queries, from beginner-friendly filters to advanced CTEs that would make a senior analyst nod approvingly.
+<br /><br />
 
 ## 💡 What You'll See
 
@@ -39,6 +42,7 @@ This project answers those questions using 18 progressively complex SQL queries,
 - Fleet maintenance prioritization
 - Revenue concentration and collection risks
 - Workforce optimization recommendations
+<br /><br />
 
 ## 🔍 Sample Insights
 
@@ -47,6 +51,7 @@ This project answers those questions using 18 progressively complex SQL queries,
 > *"Only 45% of employees are certified drivers, creating operational bottlenecks. The 6 non-certified employees represent untapped capacity that could alleviate workload pressure."*
 
 > *"Customer Dunne appears twice with both trips to downtown, suggesting loyalty program opportunities for location-based discounts."*
+<br /><br />
 
 ## 📁 Repo Structure
 
@@ -56,6 +61,7 @@ This project answers those questions using 18 progressively complex SQL queries,
 ├── schema.md              # Database structure documentation
 └── README.md              # You're here
 ```
+<br /><br />
 
 ## 🚀 Running It Yourself
 
@@ -70,6 +76,7 @@ SOURCE database.sql;
 ```
 
 **Or** just read through [queries.md](queries.md)—it's designed to be readable without actually running the code.
+<br /><br />
 
 ## 🎨 Why This Project Works
 
@@ -78,6 +85,7 @@ SOURCE database.sql;
 **For Fellow Developers:** The progression from basic queries to complex CTEs shows technical growth. The schema design demonstrates understanding of normalization and relationships.
 
 **For Data People:** The conclusions aren't just "here's what the data shows"—they're "here's what we should *do* about what the data shows."
+<br /><br />
 
 ## 🔧 What's Next
 
@@ -86,6 +94,7 @@ This project is strong, but I'm already thinking about extensions:
 - [ ] Tableau dashboards for the visual learners
 - [ ] Performance optimization (indexing, query profiling)
 - [ ] Machine learning for driver-customer matching
+<br /><br />
 
 ## 💭 The Real Talk
 
