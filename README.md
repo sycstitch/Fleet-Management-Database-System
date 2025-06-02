@@ -69,7 +69,7 @@ SOURCE database.sql;
 # Now run queries from queries.md
 ```
 
-**Or** just read through `queries.md`—it's designed to be readable without actually running the code.
+**Or** just read through [queries.md](queries.md)—it's designed to be readable without actually running the code.
 
 ## 🎨 Why This Project Works
 
